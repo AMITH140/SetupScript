@@ -1,6 +1,7 @@
 # SetupScript
 Discover the ultimate Windows setup script that streamlines your PC experience effortlessly. Install essential apps, optimize system performance with a click, and supercharge productivity—all in one go. Perfect for beginners and power users alike. Get started today and unleash the full potential of your PC!
 
+![Designer](https://github.com/AMITH140/SetupScript/assets/80134288/55d46eff-62eb-459f-9603-a35e9b085d23)
 
 # Windows Setup Script
 
